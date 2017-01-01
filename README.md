@@ -1,6 +1,7 @@
 # hello-world
 
-I'm just following the "Hello World" guide. 
+
+I'm just following the "Hello World" guide.
 Now I'm on the "Make a Commit" section.
 
 I chose Napstablook as my username because I relate to that character.
